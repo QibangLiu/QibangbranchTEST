@@ -1,1 +1,2 @@
-work from master.
+branch1: delete work of master;
+add work by branch1
