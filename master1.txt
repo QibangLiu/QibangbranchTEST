@@ -1,3 +1,5 @@
 branch1: delete work of master;
 add work by branch1
 add work by branch2
+
+new work from master
