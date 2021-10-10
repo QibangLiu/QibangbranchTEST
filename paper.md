@@ -34,9 +34,9 @@ PDLSM-FEM solver is user friendly and can solve the structures with uniform or n
 # Usage and features
 
 PDLSM-FEM is developed to perform fracture analysis of structures, which takes advantage of both PD and FEM. It also can be used to perform conventional finite element analysis, when the PD region of the model is shrunk to zero, which means there is no PD element.
-\autoref{fig: diag} illustrates the crack propagation simulation of a diagonal plate with an inclined pre-existing crack by the PDLSM-FEM solver. As it shows, PDLSM-FEM solver captures the crack growth path which has a good agreement with the experimental observation. The geometry and material properties of this example can be found in [@liu_simulating_2021].
+\autoref{fig:diag} illustrates the crack propagation simulation of a diagonal plate with an inclined pre-existing crack by the PDLSM-FEM solver. As it shows, PDLSM-FEM solver captures the crack growth path which has a good agreement with the experimental observation. The geometry and material properties of this example can be found in [@liu_simulating_2021].
 
-![A diagonal plate under displacement loading. Left-top: displacement Uy with deformed shape; Right-top: stress $\sigma_y$ with deformed shape; Left-bottom: damage $\varphi$ with underformed shape; Right-bottom: experimental crack path [@ayatollahi_analysis_2009]. \label{fig:diag}](diagExample.png){ width="800" }
+![A diagonal plate under displacement loading. (left-top): Displacement $U_y$ with deformed shape; (right-top): Stress $\sigma_y$ with deformed shape; (left-bottom): Damage $\varphi$ with underformed shape; (right-bottom): experimental crack path [@ayatollahi_analysis_2009]. \label{fig:diag}](diagExample.png){ width=90% }
 
 
 # References
